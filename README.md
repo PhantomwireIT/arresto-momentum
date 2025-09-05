@@ -47,7 +47,7 @@ Directory Structure
 
 Workflow (GitHub Actions)
 
-Your Rust CI workflow is located at .github/workflows/time-freeze-rust.yml. Highlights:
+Your Rust CI workflow is located at .github/workflows/arresto.yml. Highlights:
 
 Checks out the repo
 
