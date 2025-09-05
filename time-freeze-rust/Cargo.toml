@@ -1,14 +1,15 @@
 [package]
-name = "aresto-momentum"
+name = "arresto-momentum"
 version = "0.1.0"
 authors = ["PhantomwireIT"]
 edition = "2021"
 description = "A visual and interactive CI/CD simulation with dashboard, ASCII splash, and progress animations in Rust."
 license = "Apache2.0"
-repository = "https://github.com/PhantomwireIT/aresto-momentum"
+repository = "https://github.com/PhantomwireIT/arresto-momentum"
 
 [dependencies]
 rand = "0.8"      # for random habit progress
 chrono = "0.4"    # for timestamp formatting if needed
+
 
 
