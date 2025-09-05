@@ -28,7 +28,7 @@ GitHub Actions (for CI/CD)
 
 Local Run
 
-Clone the repository: git clone https://github.com/PhantomwireIT/time-freeze.git cd time-freeze cargo run --release
+Clone the repository: git clone https://github.com/PhantomwireIT/arresto-momentum.git cd time-freeze cargo run --release
 
 You’ll see:
 
