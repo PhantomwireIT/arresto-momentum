@@ -1,13 +1,14 @@
 [package]
-name = "time_freeze"
+name = "aresto-momentum"
 version = "0.1.0"
 authors = ["PhantomwireIT"]
 edition = "2021"
 description = "A visual and interactive CI/CD simulation with dashboard, ASCII splash, and progress animations in Rust."
-license = "MIT"
+license = "Apache2.0"
 repository = "https://github.com/PhantomwireIT/aresto-momentum"
 
 [dependencies]
 rand = "0.8"      # for random habit progress
 chrono = "0.4"    # for timestamp formatting if needed
+
 
